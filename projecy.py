@@ -38,3 +38,4 @@ else:
 
 print("You got " + str(score) + " questions correct!")
 print("You got " + str((score/4)*100) + " %")
+print("Thank you for playing😎")
